@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_moleq_backoffice"]=self["webpackChunkvue_moleq_backoffice"]||[]).push([[701],{5277:function(e,n,c){c.r(n),c.d(n,{default:function(){return l}});var r=c(641);const a={class:"container"},o=(0,r.Lk)("h1",null,"This is an reports page",-1);function s(e,n,c,s,t,u){const f=(0,r.g2)("Header");return(0,r.uX)(),(0,r.CE)("div",a,[(0,r.bF)(f),o])}var t=c(1851),u={components:{Header:t.A}},f=c(6262);const i=(0,f.A)(u,[["render",s]]);var l=i}}]);
+//# sourceMappingURL=701.0049d045.js.map

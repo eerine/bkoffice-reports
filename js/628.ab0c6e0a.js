@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_moleq_backoffice"]=self["webpackChunkvue_moleq_backoffice"]||[]).push([[628],{2368:function(e,n,r){r.r(n),r.d(n,{default:function(){return i}});var a=r(641);const c={class:"container"};function t(e,n,r,t,o,s){const u=(0,a.g2)("Header");return(0,a.uX)(),(0,a.CE)("div",c,[(0,a.bF)(u),(0,a.eW)(" This is Dashboard ")])}var o=r(1851),s={components:{Header:o.A},data(){return{}},methods:{}},u=r(6262);const f=(0,u.A)(s,[["render",t]]);var i=f}}]);
+//# sourceMappingURL=628.ab0c6e0a.js.map
