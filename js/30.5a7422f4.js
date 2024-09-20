@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_moleq_backoffice"]=self["webpackChunkvue_moleq_backoffice"]||[]).push([[30],{5030:function(e,n,o){o.r(n),o.d(n,{default:function(){return k}});var r=o(641);const t={class:"container not-found-wrapper"},u=(0,r.Lk)("h1",null,"404 - Page Not Found",-1),a=(0,r.Lk)("p",null,"This page no longer exists or was moved to another location.",-1),c=[u,a];function s(e,n){return(0,r.uX)(),(0,r.CE)("div",t,c)}var l=o(6262);const f={},i=(0,l.A)(f,[["render",s]]);var k=i}}]);
+//# sourceMappingURL=30.5a7422f4.js.map
